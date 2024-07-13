@@ -1,0 +1,44 @@
+// Activity 1
+// Task 1 : 
+var num = 23
+console.log(num);
+
+// Task 2 :
+let name = "Anurag"
+console.log(name);
+
+// ACTIVITY 2
+// Task 3 :
+const truth = true
+console.log(truth);
+
+// Activity 3
+// Task 4 :
+let string = "Anurag"
+console.log(typeof string);
+
+let number = 12
+console.log(typeof number);
+
+let boolean = false
+console.log(typeof boolean);
+
+let object = {}
+console.log(typeof object);
+
+let array = []
+console.log(typeof array);
+
+// Activity 4
+//
+let variable1 = "Anurag"
+variable1 = 98
+console.log(variable1);
+
+// Activity 5
+// Task 6
+const var2 = "Mahima"
+var2 = 9
+console.log(var2);
+
+
